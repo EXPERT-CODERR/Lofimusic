@@ -44,7 +44,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴏғɪ ✘ ᴍ�
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/FallenMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/EXPERT-CODERR/Lofimusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -66,7 +66,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
-`bash fallen`
+`bash Lofi`
 - For getting out from tmux session<br>
 Press `Ctrl+b` and then `d`
 
@@ -99,6 +99,6 @@ Press `Ctrl+b` and then `d`
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 - <b>[ⓃⓄⓉⒺ This Repo Belongs To Above Mentioned People]<b>
 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/FallenMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʟᴏғɪ ✘ ᴍᴜsɪᴄ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/THEMOHMAYA) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʟᴏғɪ ✘ ᴍᴜsɪᴄ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
