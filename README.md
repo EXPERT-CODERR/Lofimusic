@@ -26,7 +26,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴏғɪ ✘ ᴍ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/5c2babbf5aee1826ed258.jpg">
+  <img src="https://graph.org/file/afbf560176e13ea7803f1.jpg">
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴏғɪ ✘ ᴍ�
 - Install node by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenMusic && cd FallenMusic`
+`git clone https://github.com/EXPERT-CODERR/Lofimusic && cd LofiMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -94,7 +94,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ʟᴏғɪ ᴍᴜsɪᴄ](https://github.com/THEMOHMAYA)  ғᴏʀ  [ʟᴏғɪ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
+- <b>[ʟᴏғɪ ᴍᴜsɪᴄ](https://github.com/THEMOHMAYA)  ғᴏʀ  [ʟᴏғɪ ᴍᴜsɪᴄ](https://github.com/EXPERT-CODERR/Lofimusic) </b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
 - <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
 - <b>[ⓃⓄⓉⒺ This Repo Belongs To Above Mentioned People]<b>
